@@ -12,7 +12,7 @@ If you like the topic you can also have a look at some of the open-source stuff 
 * [IETS3](https://github.com/IETS3/iets3.opensource)
 * [Mbeddr](https://github.com/mbeddr)
 
-And last but not least, the holly grail of languages workbenches, an opensource effort to build a web and cloud based language workbench:[modelix](https://github.com/modelix/modelix).
+And last but not least, the holly grail of languages workbenches, an opensource effort to build a web and cloud based language workbench: [modelix](https://github.com/modelix/modelix).
 
 ## Stuff I read
 
