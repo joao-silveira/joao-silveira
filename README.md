@@ -16,7 +16,7 @@ And last but not least, the holly grail of languages workbenches, an opensource 
 
 ## Stuff I read
 
-I tried to find every day some time to read about something i am interested about. Here is my reading list from the past months:
+I try to find every day some time to read about something i am interested about. Here is my reading list from the past months:
 * [21 Lessons for the 21st Century](https://www.amazon.de/gp/product/B0767FS76G/ref=kinw_myk_ro_titlea)
 * [Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries](https://www.amazon.de/gp/product/B07D2BKVQR/ref=kinw_myk_ro_title)
 * [Trillion Dollar Coach: The Leadership Handbook of Silicon Valley’s Bill Campbell](https://www.amazon.de/gp/product/B07JFKHCNY/ref=kinw_myk_ro_title)
