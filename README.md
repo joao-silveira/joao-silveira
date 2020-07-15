@@ -6,7 +6,7 @@ My name is João Silveira and I've spent most of my professional career building
 
 My day to day main development tool is [Jetbrains MPS](https://www.jetbrains.com/mps/) which is still today (imho) the most relevant Language Workbench out there.
 
-If you like the topic you can also have a look at some of the open-source stuff the me and folks here at Itemis (and not only) are working on:
+If you like the topic you can also have a look at some of the open-source stuff that me and folks here at Itemis (and not only) are working on:
 
 * [MPS-Extensions](https://github.com/JetBrains/MPS-extensions)
 * [IETS3](https://github.com/IETS3/iets3.opensource)
