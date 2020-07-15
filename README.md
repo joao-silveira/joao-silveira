@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is João Silveira and I've spent most of my professional career building programming languages. Since 2016 I've been working with Itemis AG in Stuttgart and have developed a particular interested about language workbenches and projectional editors (If you want to know more have a look at the stuff from [Markus Voelter](https://voelter.de/publications.html) who also colaborates with Itemis AG).
+My name is João Silveira and I've spent most of my professional career building programming languages. Since 2016 I've been working with Itemis AG in Stuttgart and have developed a particular interest about language workbenches and projectional editors (If you want to know more have a look at the stuff from [Markus Voelter](https://voelter.de/publications.html) who also colaborates with Itemis AG).
 
 My day to day main development tool is [Jetbrains MPS](https://www.jetbrains.com/mps/) which is still today (imho) the most relevant Language Workbench out there.
 
